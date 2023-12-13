@@ -8,7 +8,7 @@ export const styles = StyleSheet.create({
 
   turnText: {
     color: '#fff',
-    backgroundColor: 'tomato',
+    backgroundColor: '#5DBB63',
     width: '90%',
     borderRadius: 4,
     textAlign: 'center',
@@ -17,6 +17,12 @@ export const styles = StyleSheet.create({
     margin: 10,
     marginTop: 40,
     fontSize: 20,
+  },
+  turnTextC: {
+    backgroundColor: '#4682b4',
+  },
+  turnTextW: {
+    backgroundColor: '#DD6990',
   },
   ticTacToeGrid: {
     height: 360,
